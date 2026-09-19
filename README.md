@@ -76,3 +76,14 @@ Berdasarkan visualisasi *feature importance* dari model XGBoost, variabel-variab
 1. Clone repositori ini ke perangkat Anda:
    ```bash
    git clone [https://github.com/username/credit-risk-classification.git](https://github.com/username/credit-risk-classification.git)
+
+   ---
+
+# 👨‍💻 Author
+
+### Fadli Nurrizky
+
+
+---
+
+# 🙏 Thank You
